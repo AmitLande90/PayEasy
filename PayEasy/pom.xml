@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.payeasy</groupId>
-	<artifactId>demo-2</artifactId>
+	<artifactId>payeasy</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo-2</name>
-	<description>Demo project for Spring Boot</description>
+	<name>PayEasy</name>
+	<description>Merchant to Customer money transfer</description>
 
 	<properties>
 		<java.version>1.8</java.version>
